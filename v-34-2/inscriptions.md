@@ -12,6 +12,7 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/cnv/blob/m
 
 - Edouard Cunibil - e.cunibil@gmail.com 
 - Sabine Safi - sabine.safi@gmail.com
+- Cecile Bauza - cecile.bauza@gmail.com
 
 Celles et ceux qui auraient aimé en être !
 
